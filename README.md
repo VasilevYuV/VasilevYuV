@@ -1,6 +1,6 @@
 # Hello world! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-### I'm Yura, a passionate Backend Java Developer with a strong focus on creating efficient and scalable server-side solutions. I'm deeply interested in system architecture, clean code principles, and solving complex technical challenges.
-### Currently, I'm studying on the 3rd course of Computer Science at the International College of Information and Creative Technologies "IThub", specializing in Java development.
+### I'm Yura, a passionate Backend Java Developer with a strong focus on creating efficient and scalable server-side solutions. I'm deeply interested in system architecture, clean code principles, and solving complex technical challenges
+### I am currently a 3rd-year Computer Science student at the International College of Information and Creative Technologies "IThub", specializing in Java development. My studies focus on Java Core & Enterprise, Algorithms and Data Structures, Software Design and Architecture, Relational Databases, and Networking Technologies
 
 ## 🌐 My Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:VasilevYuV23@st.ithub.ru) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ferox1636) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferox1636) 
